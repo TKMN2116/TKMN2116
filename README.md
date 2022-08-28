@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TKMN2116
 - 👀 I’m interested in atomic physics
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on hogehoge
+- 🌱 I’m currently learning Bayesianism
+- 💞️ I’m looking to collaborate on ramen
 - 📫 How to reach me hogehoge
 
 <!---
